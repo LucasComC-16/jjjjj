@@ -1,6 +1,6 @@
 body {
   color: white;
-  background-color: black;
+  background-color: darkgrey;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -20,7 +20,7 @@ a {
 img {
   width: 200px;
   weight: 200px;
-  border: 5px solid green;
+  border: 5px solid blue;
 }
 
 .center {
@@ -28,8 +28,8 @@ img {
 }
 
 h1 {
-  color: green;
+  color: blue;
 
   nav a:hover {
-    color: green;
+    color: blue;
   }
